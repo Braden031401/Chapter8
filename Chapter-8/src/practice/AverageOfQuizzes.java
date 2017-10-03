@@ -28,6 +28,7 @@ public class AverageOfQuizzes {
 			if(count == max)
 				score = quit;
 			else
+				
 				System.out.println("Enter next quiz score or "+ quit +" to quit");
 			score = input.nextInt();
 		}
