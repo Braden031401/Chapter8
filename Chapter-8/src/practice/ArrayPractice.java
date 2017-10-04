@@ -45,10 +45,9 @@ public class ArrayPractice {
 		{
 			System.out.println(numbers[0] +" is odd");
 		}
-		
 		if( numbers[1] % 2 != 0 )
 		{
-			System.out.println(numbers[1] +" is odd ");
+			System.out.println(numbers[1] +" is odd");
 		}
 		if( numbers[2] % 2 != 0 )
 		{
@@ -56,15 +55,15 @@ public class ArrayPractice {
 		}
 		if( numbers[3] % 2 != 0 )
 		{
-			System.out.println(numbers[3] +" is odd ");
+			System.out.println(numbers[3] +" is odd");
 		}
 		if( numbers[4] % 2 != 0 )
 		{
-			System.out.println(numbers[4] +" is odd ");
+			System.out.println(numbers[4] +" is odd");
 		}
 		if( numbers[5] % 2 != 0 )
 		{
-			System.out.println(numbers[5] +" is odd ");
+			System.out.println(numbers[5] +" is odd");
 		}
 	}
 
